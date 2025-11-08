@@ -1,0 +1,1 @@
+This is a simple environment for RL in fluid flow
